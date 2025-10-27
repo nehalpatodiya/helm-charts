@@ -3,7 +3,17 @@ entries:
   bookinfo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-25T20:47:00.9956502+05:30"
+    created: "2025-10-27T21:23:26.07839+05:30"
+    description: A Helm chart for Kubernetes
+    digest: b0a7e72c03362ab2cd6da65265bbcc9a5cecb5b0bca52fbdcf816c752fc0f650
+    name: bookinfo
+    type: application
+    urls:
+    - bookinfo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-27T21:23:26.0776662+05:30"
     description: A Helm chart for Kubernetes
     digest: f4612f9cd347c82de2c35506abc32ace05fadee4ed307778780850f4b5926fef
     name: bookinfo
@@ -33,7 +43,7 @@ entries:
           url: https://github.com/jenkinsci/helm-charts/issues
     apiVersion: v2
     appVersion: 2.516.3
-    created: "2025-10-25T20:47:01.0089621+05:30"
+    created: "2025-10-27T21:23:26.0920107+05:30"
     description: 'Jenkins - Build great things at any scale! As the leading open source
       automation server, Jenkins provides over 2000 plugins to support building, deploying
       and automating any project. '
@@ -86,7 +96,7 @@ entries:
           url: https://github.com/jenkinsci/helm-charts/issues
     apiVersion: v2
     appVersion: 2.516.3
-    created: "2025-10-25T20:47:01.0032383+05:30"
+    created: "2025-10-27T21:23:26.085026+05:30"
     description: 'Jenkins - Build great things at any scale! As the leading open source
       automation server, Jenkins provides over 2000 plugins to support building, deploying
       and automating any project. '
@@ -118,4 +128,4 @@ entries:
     urls:
     - jenkins-5.8.101.tgz
     version: 5.8.101
-generated: "2025-10-25T20:47:00.9939107+05:30"
+generated: "2025-10-27T21:23:26.0765423+05:30"
