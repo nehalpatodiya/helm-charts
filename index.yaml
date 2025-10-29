@@ -3,9 +3,9 @@ entries:
   bookinfo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T12:47:45.6507584+05:30"
+    created: "2025-10-29T13:05:06.0922279+05:30"
     description: A Helm chart for Kubernetes
-    digest: 30b6bb6fde40a47102bd4e13356b95252bd88f18e757be223b9c261c3c86e578
+    digest: b124af0c035cbe0dd4781b8cfb103c6bfa002cf8f1ce72e9510dfbece5989000
     name: bookinfo
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T12:47:45.6502311+05:30"
+    created: "2025-10-29T13:05:06.0906564+05:30"
     description: A Helm chart for Kubernetes
     digest: b0a7e72c03362ab2cd6da65265bbcc9a5cecb5b0bca52fbdcf816c752fc0f650
     name: bookinfo
@@ -23,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T12:47:45.6486637+05:30"
+    created: "2025-10-29T13:05:06.0896033+05:30"
     description: A Helm chart for Kubernetes
     digest: f4612f9cd347c82de2c35506abc32ace05fadee4ed307778780850f4b5926fef
     name: bookinfo
@@ -53,7 +53,7 @@ entries:
           url: https://github.com/jenkinsci/helm-charts/issues
     apiVersion: v2
     appVersion: 2.516.3
-    created: "2025-10-29T12:47:45.6571447+05:30"
+    created: "2025-10-29T13:05:06.1007385+05:30"
     description: 'Jenkins - Build great things at any scale! As the leading open source
       automation server, Jenkins provides over 2000 plugins to support building, deploying
       and automating any project. '
@@ -106,7 +106,7 @@ entries:
           url: https://github.com/jenkinsci/helm-charts/issues
     apiVersion: v2
     appVersion: 2.516.3
-    created: "2025-10-29T12:47:45.6533976+05:30"
+    created: "2025-10-29T13:05:06.0959338+05:30"
     description: 'Jenkins - Build great things at any scale! As the leading open source
       automation server, Jenkins provides over 2000 plugins to support building, deploying
       and automating any project. '
@@ -138,4 +138,4 @@ entries:
     urls:
     - jenkins-5.8.101.tgz
     version: 5.8.101
-generated: "2025-10-29T12:47:45.6476038+05:30"
+generated: "2025-10-29T13:05:06.087521+05:30"
